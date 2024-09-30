@@ -1,0 +1,14 @@
+C:\Users\JOJO\Desktop\Journalcs\bin\Debug\net8.0\journalcs.exe
+C:\Users\JOJO\Desktop\Journalcs\bin\Debug\net8.0\journalcs.deps.json
+C:\Users\JOJO\Desktop\Journalcs\bin\Debug\net8.0\journalcs.runtimeconfig.json
+C:\Users\JOJO\Desktop\Journalcs\bin\Debug\net8.0\journalcs.dll
+C:\Users\JOJO\Desktop\Journalcs\bin\Debug\net8.0\journalcs.pdb
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\journalcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\journalcs.AssemblyInfoInputs.cache
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\journalcs.AssemblyInfo.cs
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\journalcs.csproj.CoreCompileInputs.cache
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\journalcs.dll
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\refint\journalcs.dll
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\journalcs.pdb
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\journalcs.genruntimeconfig.cache
+C:\Users\JOJO\Desktop\Journalcs\obj\Debug\net8.0\ref\journalcs.dll
